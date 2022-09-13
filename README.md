@@ -1,5 +1,5 @@
 <p align="center"><img src="https://raw.githubusercontent.com/Faus20/Interfaces---Entregable-1/main/imgs/logo.png" width="500" height="150"/></p>
-<h3 align="left"><span style="color:blue">*Consigna:*</span></h3>
+<h3 align="left"><span>Consigna:</span></h3>
 <p align="left">• Dibujar figuras de diferente tamaño en posiciones al azar del canvas utilizando
 clases y objetos. Las figuras pueden ser círculos, rectángulos, etc.</p>
 <p align="left">• Implementar funcionalidad para verificar si un punto se encuentra dentro de una
