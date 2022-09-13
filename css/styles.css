@@ -1,0 +1,13 @@
+body{
+    background-image: url(../imgs/fondo3.png);
+    background-size: cover;
+    width: 90%;
+    margin: 0;
+    height: 93vh;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+}
+
+.row{
+    margin-top: 25px;
+    margin-left: 55px;
+}
