@@ -5,6 +5,7 @@ clases y objetos. Las figuras pueden ser círculos, rectángulos, etc.</p>
 <p align="left">• Implementar funcionalidad para verificar si un punto se encuentra dentro de una
 figura. Usar la posición del mouse como punto a verificar. Agregar los métodos
 correspondientes al diseño del ejercicio anterior.</p>
-<p align="left">• Implementar la funcionalidad necesaria para mover las figuras dentro del canvas:
-a. Mover una figura seleccionada utilizando el mouse (arrastrar) * Requerido
-b. Mover una figura seleccionada utilizando el teclado. * Para Bonus.</p>
+<p align="left">• Implementar la funcionalidad necesaria para mover las figuras dentro del canvas:</p>
+
+ <p align="left"> a) Mover una figura seleccionada utilizando el mouse (arrastrar) * Requerido </p>
+<p align="left"> b) Mover una figura seleccionada utilizando el teclado. * Para Bonus.</p>
